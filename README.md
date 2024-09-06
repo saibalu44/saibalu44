@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @saibalu44
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning devops
-- 💞️ I’m looking to collaborate on when i am finished 
-- 📫 How to reach me dm 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Bala subramanyam </h1>
+<h3 align="center">A passionate developer and a student</h3>
 
-<!---
-saibalu44/saibalu44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **building a website for myself**
+
+- 🌱 I’m currently learning **full stack web development**
+
+- 👯 I’m looking to collaborate on **frontend development**
+
+- 🤝 I’m looking for help with **an anime watching wesite**
+
+- 👨‍💻 All of my projects are available at [saibalu44 my github profile](saibalu44 my github profile)
+
+- 💬 Ask me about **Html, Css, python, C ....**
+
+- 📫 How to reach me **saikrrish1432@gmail.com**
+
+- ⚡ Fun fact **I like to learn everything out of curiosity**
