@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **an anime watching wesite**
 
-- 👨‍💻 All of my projects are available at [saibalu44 my github profile](saibalu44 my github profile)
+- 👨‍💻 All of my projects are available at [saibalu44 my github profile]
 
 - 💬 Ask me about **Html, Css, python, C ....**
 
