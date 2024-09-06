@@ -16,3 +16,8 @@
 - 📫 How to reach me **saikrrish1432@gmail.com**
 
 - ⚡ Fun fact **I like to learn everything out of curiosity**
+
+
+
+<a href="https://instagram.com/tony_x.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tony_x.7" height="30" width="40" /></a>
+</p>
