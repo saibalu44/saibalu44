@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bala subramanyam </h1>
-<h3 align="center">A Software passionate developer and a student</h3>
+<h3 align="center">A  passionate software developer and a student</h3>
 
 - 🔭 I’m currently working on **building a website for myself**
 
