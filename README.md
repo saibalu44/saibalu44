@@ -18,5 +18,5 @@
 - ⚡ Fun fact **I like to learn everything out of curiosity**
 - <h3 align="left">Connect with me via:</h3>
 <p align="left">
-<a href="https://instagram.com/ig__sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig__sai" height="30" width="40" /></a>
+<a href="https://instagram.com/ig__sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz.sai__" height="30" width="40" /></a>
 </p>
